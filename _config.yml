@@ -27,7 +27,7 @@ author:
   bio              : "Scientist, Computational Imaging, (Deep) Machine Learning, Materials Science"
   location         : "Hamburg, Germany"
   employer         : "Helmholtz-Zentrum Hereon"
-  uri              : https://www.hereon.de/institutes/metallic_biomaterials/imaging_and_data_science/team/index.php.en # URL
+  uri              : "https://www.hereon.de/institutes/metallic_biomaterials/imaging_and_data_science/team/index.php.en" # URL
   email            : "tak.wong@hereon.de" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
