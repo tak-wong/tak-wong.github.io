@@ -15,7 +15,9 @@ Prior to this, I completed my doctoral research at the [Computer Graphics and Mu
 Research Interests
 ======
 I am interested in non-convex optimization, deep learning, computational imaging, computer graphics and computer vision.
-Most of my research is about applying computational approaches to image analysis for imaging modalities, such as Synchrotron radiation-based micro-/nano- Computed Tomography, Terahertz (THz) imaging, Time-of-Flight, hyperspectral imaging, etc.
+Most of my research is about applying computational approaches to image analysis for imaging modalities, such as synchrotron radiation-based micro-/nano- computed tomography, Terahertz (THz) imaging, Time-of-Flight, hyperspectral imaging, etc.
+
+Currently, I'm working on topics involving: (un-/self-)supervised deep learning, optical flow, digital volume correlation, phase retrieval, parameter estimation, computed tomography.
 
 News
 ======

@@ -40,7 +40,7 @@ Memberships
 * **[Computer Graphics and Multimedia Systems Group](https://www.cg.informatik.uni-siegen.de/en)** (2016 - 2022)
   * University of Siegen, Siegen, Germany
   
-* **[Center for Sensor Systeme (ZESS)](https://www.uni-siegen.de/zess/index.html.en?lang=en)** (2016 - 2022)
+* **[Center for Sensor Systems (ZESS)](https://www.uni-siegen.de/zess/index.html.en?lang=en)** (2016 - 2022)
   * University of Siegen, Siegen, Germany
 
 * **[DFG Research Training Group 1564 - Imaging New Modalities](http://www.grk1564.uni-siegen.de/en)** (2016 - 2018)
@@ -54,7 +54,7 @@ Organizational Experience
 Honors and Awards
 ======
 * Stipendium (2021, 2022)
-  * Issued by Center for Sensor Systeme (ZESS), University of Siegen
+  * Issued by Center for Sensor Systems (ZESS), University of Siegen
 
 * Stipendium (2020)
   * Issued by University of Siegen
