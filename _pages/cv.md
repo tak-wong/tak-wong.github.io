@@ -15,7 +15,7 @@ Education
 * **M.Sc.** in Integrated Circuit (IC) Design Engineering, The Hong Kong University of Science and Technology, 2012
 * **B.Eng.** in Computer Engineering, The Hong Kong University of Science and Technology, 2010
 
-Professional experience
+Academic and Professional experience
 ======
 * **Scientist** (2023 - now)
   * Helmholtz-Zentrum Hereon, Hamburg, Germany
@@ -28,6 +28,14 @@ Professional experience
 
 * **Project Intern** (2010 - 2011)
   * Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong
+
+Memberships
+======
+* **[Center for Sensor Systeme (ZESS)](https://www.uni-siegen.de/zess/index.html.en?lang=en)** (2016 - 2022)
+  * University of Siegen, Siegen, Germany
+
+* **[DFG Research Training Group 1564 - Imaging New Modalities](http://www.grk1564.uni-siegen.de/en)** (2016 - 2018)
+  * University of Siegen, Siegen, Germany
   
 <!-- Skills
 ======
