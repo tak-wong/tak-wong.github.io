@@ -1,20 +1,18 @@
 ---
-title: "Scientific Visualization (2020 Winter Semester)"
+title: "Scientific Visualization (2019 Winter Semester)"
 collection: teaching
 type: "Master course"
-permalink: /teaching/2020-winter-SciVis
+permalink: /teaching/2019-winter-SciVis
 venue: "University of Siegen, Department of Electrical Engineering and Computer Science"
-date: 2020-10-01
+date: 2019-10-01
 location: "Siegen, Germany"
 ---
 
-Duties:
-======
+**Duties:**
 * Tutorial and assignments
 * Project works
 
-Course description:
-======
+**Course description:**
 [Scientific Visualization](https://www.cg.informatik.uni-siegen.de/en/SciVisEN) is about the visual representation of simulation and measurement data from medicine, natural sciences, and technology. This lecture focusses on interactive techniques that map abstract data to visualizable geometry.
 
 Contents:
