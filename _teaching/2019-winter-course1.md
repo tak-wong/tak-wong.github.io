@@ -13,6 +13,7 @@ location: "Siegen, Germany"
 * Project works
 
 **Course description:**
+
 [Scientific Visualization](https://www.cg.informatik.uni-siegen.de/en/SciVisEN) is about the visual representation of simulation and measurement data from medicine, natural sciences, and technology. This lecture focusses on interactive techniques that map abstract data to visualizable geometry.
 
 Contents:
