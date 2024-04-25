@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -40,16 +40,18 @@ Memberships
 Organizational Experience
 ======
 * **KI4D4E Workshop Hamburg** (10-11 October 2023)
-  * Helmholtz-Zentrum Hereon, Hamburg, Germany
+  * Member of the organizational team from Hereon
   
-<!-- Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Stipendium (2021, 2022)
+  * Issued by Center for Sensor Systeme (ZESS), University of Siegen
+
+* Stipendium (2020)
+  * Issued by University of Siegen
+
+* Stipendium (2016)
+  * Issued by Deutschen Akademischen Austausch Dienstes (DAAD-Programm STIBET)
 
 Publications
 ======
