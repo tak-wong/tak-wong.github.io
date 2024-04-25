@@ -17,5 +17,5 @@ author_profile: true
   <h3>{{ currentdate }}</h3>
       {% assign date = currentdate %}
   {% endif %}
-  {% include archive-single.html %}
+  {% include archive-single-publication.html %}
 {% endfor %}
