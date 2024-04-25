@@ -17,6 +17,9 @@ Education
 
 Professional experience
 ======
+* **Scientist** (2023 - now)
+  * Helmholtz-Zentrum Hereon, Hamburg, Germany
+
 * **Scientific Researcher** (2016 - 2022)
   * University of Siegen, Siegen, Germany
 
