@@ -3,7 +3,7 @@ title: "Optimization-based Enhancement of THz Data and Image"
 collection: publications
 permalink: /publication/2023-wong2023optimization
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-11-25
+date: 2023-05-05
 venue: 'PhD Dissertation, University of Siegen'
 authors: '<b>Tak Ming Wong</b>'
 paperurl: 'http://dx.doi.org/10.25819/ubsi/10350'

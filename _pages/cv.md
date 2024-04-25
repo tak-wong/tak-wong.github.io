@@ -36,6 +36,11 @@ Memberships
 
 * **[DFG Research Training Group 1564 - Imaging New Modalities](http://www.grk1564.uni-siegen.de/en)** (2016 - 2018)
   * University of Siegen, Siegen, Germany
+
+Organizational Experience
+======
+* **KI4D4E Workshop Hamburg** (10-11 October 2023)
+  * Helmholtz-Zentrum Hereon, Hamburg, Germany
   
 <!-- Skills
 ======
