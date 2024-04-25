@@ -3,7 +3,7 @@ title: "Scientific Visualization (2021 Winter Semester)"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2021-winter-SciVis
-excerpt: '- Manage tutorials, assignments, and project work for the course.'
+excerpt: '- Manage tutorials, assignments, and project work for the course'
 venue: "University of Siegen, Department of Electrical Engineering and Computer Science"
 date: 2021-10-01
 location: "Siegen, Germany"

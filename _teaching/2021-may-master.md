@@ -1,7 +1,7 @@
 ---
 title: "Master Thesis: Blur Kernel Estimation by Deep Learning"
 collection: teaching
-type: "Supervisions"
+type: "Supervision"
 permalink: /teaching/2021-may-master
 excerpt: '- Supervise the master student'
 venue: "University of Siegen, Department of Electrical Engineering and Computer Science"
@@ -14,5 +14,4 @@ location: "Siegen, Germany"
 * Provide guidance on the structure of the thesis writing.
 
 **Master thesis title:**
-
-Blur Kernel Estimation by Deep Learning
+* Blur Kernel Estimation by Deep Learning
