@@ -15,7 +15,7 @@ Education
 * **M.Sc.** in Integrated Circuit (IC) Design Engineering, The Hong Kong University of Science and Technology, 2012
 * **B.Eng.** in Computer Engineering, The Hong Kong University of Science and Technology, 2010
 
-Academic and Professional experience
+Academic and Professional Experience
 ======
 * **Scientist** (2023 - now)
   * Helmholtz-Zentrum Hereon, Hamburg, Germany
