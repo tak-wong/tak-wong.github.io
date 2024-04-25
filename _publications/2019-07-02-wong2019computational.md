@@ -8,6 +8,7 @@ venue: 'Journal of Infrared, Millimeter, and Terahertz Waves'
 authors: '<b>Tak Ming Wong</b>, Matthias Kahl, Peter Haring Bolívar, Andreas Kolb'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s10762-019-00609-w.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+teaser: /publications/wong2019computational_1.png
 arxiv: 'https://arxiv.org/abs/1802.05457'
 categories: [THz,Image-Enhancement]
 bibtex: true
