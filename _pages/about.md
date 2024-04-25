@@ -19,6 +19,6 @@ Most of my research is about applying computational approaches to image analysis
 
 News
 ======
-- 18.06.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) has been accepted for oral presentation at the CVPR 2024 workshops - Computer Vision for Materials Science (CV4MS).
-- 17.06.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) has also been accepted for a poster session at the CVPR workshops - Computer Vision for Science (CV4Science).
-- 14.05.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) has also been accepted for a talk at the Helmholtz Imaging Conference 2024.
+- 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for oral presentation at the CVPR 2024 workshops - Computer Vision for Materials Science (CV4MS) - on 18 June 2024.
+- 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for a poster session at the CVPR workshops - Computer Vision for Science (CV4Science) - on 17 June 2024.
+- 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for a talk at the Helmholtz Imaging Conference 2024 - on 14 May 2024.
