@@ -10,6 +10,7 @@ location: "Siegen, Germany"
 
 **Duties:**
 * Tutorial and assignments
+* Update the content from GNUPlot and C++ to Matplotlib using Python
 * Project works
 
 **Course description:**
