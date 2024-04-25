@@ -1,12 +1,39 @@
 ---
-title: "Paper Title Number 2"
+title: "Advanced signal processing techniques for THz imaging and sensing enhancement in material quality control applications"
 collection: publications
-permalink: /publication/2019-03-01-stock2019advanced
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/2019-stock2019advaned
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-03-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'SPIE OPTO'
+authors: 'Daniel Stock, Matthias Kahl, Anna K. Wigger, <b>Tak Ming Wong</b>, Andreas Kolb, Peter Haring Bolívar'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/s10762-019-00609-w.pdf'
+citation: 'Wong, T. M., Kahl, M., Haring Bolívar, P., & Kolb, A. (2019). Computational image enhancement for frequency modulated continuous wave (FMCW) THz image. Journal of Infrared, Millimeter, and Terahertz Waves, 40, 775-800.'
+teaser: /publications/stock2019advanced_teaser.png
+# arxiv: ''
+categories: [THz]
+bibtex: true
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+{{ page.authors }}
+
+<img class="pub_teaser" src="../images/publications/stock2019advanced_teaser.png" alt="Teaser Image" title="teaser" />
+
+## Abstract
+> THz imaging and sensing has demonstrated a wide-ranging application potential. However, the transfer of such basic applicability observations to real-world application scenarios is severely obstructed by fundamental limitations imposed by the comparatively long wavelength of this analytic technique. In this presentation, an overview of recent signal processing developments for the enhancement of the analytic performance of THz imaging and sensing systems is presented. The first part of the presentation introduces advanced signal processing techniques to enhance the spectroscopic investigation capability of THz systems. Experiments are performed at particularly difficult application situations, including inter alia very thin material systems or measurements with strongly absorptive features beyond the signal to noise limitations of spectroscopic instrumentation. Model- based numeric procedures for spectroscopic investigation with pulsed THz systems are derived, which enhance the analytic material data quality by two orders of magnitude in comparison to established numeric procedures. Furthermore, computer vision based blind-deconvolution superresolution approaches are introduced, which allow the unassisted increase of imaging resolution beyond the diffraction limit. Experiments performed with a FMCW- based THz imaging system operating from 514 - 640 GHz demonstrate a resolution increase by a factor of 2.3 beyond the diffraction limit, without requiring any prior knowledge on the point-spread function size or shape of the imaging system, but based on a direct analysis of the imaging data of an unknown target sample.
+
+## Resources
+
+{% if page.paperurl %}<a href=" {{ page.paperurl }} ">[pdf]</a>{% endif %} {% if page.arxiv %}<a href=" {{ page.arxiv }} ">[arxiv]</a>{% endif %} {% if page.code %}<a href=" {{ page.code }} ">[github]</a>{% endif %} {% if page.video %}<a href=" {{ page.video }} ">[video]</a>{% endif %} {% if poster %}<a href=" {{ page.poster }} ">[video]</a>{% endif %}
+
+
+## Bibtex
+
+    @inproceedings{stock2019advanced,
+        title={Advanced signal processing techniques for THz imaging and sensing enhancement in material quality control applications},
+        author={Stock, Daniel and Kahl, Matthias and Wigger, Anna K and Wong, Tak Ming and Kolb, Andreas and Bol{\'\i}var, Peter Haring},
+        booktitle={Terahertz, RF, Millimeter, and Submillimeter-Wave Technology and Applications XII},
+        volume={10917},
+        pages={127--133},
+        year={2019},
+        organization={SPIE}
+    }
