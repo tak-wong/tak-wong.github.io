@@ -31,6 +31,15 @@ Academic and Professional Experience
 
 Memberships
 ======
+* **[Imaging and Data Science Department](https://www.hereon.de/institutes/metallic_biomaterials/imaging_and_data_science/index.php.en)** (2023 - now)
+  * Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Hamburg, Germany
+
+* **[X-Ray Imaging with Synchrotron Radiation Department](https://www.hereon.de/institutes/materials_physics/team/index.php.en)** (2023 - now)
+  * Institute of Materials Physics, Helmholtz-Zentrum Hereon, Hamburg, Germany
+
+* **[Computer Graphics and Multimedia Systems Group](https://www.cg.informatik.uni-siegen.de/en)** (2016 - 2022)
+  * University of Siegen, Siegen, Germany
+  
 * **[Center for Sensor Systeme (ZESS)](https://www.uni-siegen.de/zess/index.html.en?lang=en)** (2016 - 2022)
   * University of Siegen, Siegen, Germany
 
@@ -39,7 +48,7 @@ Memberships
 
 Organizational Experience
 ======
-* **KI4D4E Workshop Hamburg** (10-11 October 2023)
+* KI4D4E Workshop Hamburg (10-11 October 2023)
   * Member of the organizational team from Hereon
   
 Honors and Awards

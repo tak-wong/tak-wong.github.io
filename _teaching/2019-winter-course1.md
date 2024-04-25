@@ -3,6 +3,7 @@ title: "Scientific Visualization (2019 Winter Semester)"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2019-winter-SciVis
+excerpt: 'Responsible for tutorials, assignments and project works.'
 venue: "University of Siegen, Department of Electrical Engineering and Computer Science"
 date: 2019-10-01
 location: "Siegen, Germany"
