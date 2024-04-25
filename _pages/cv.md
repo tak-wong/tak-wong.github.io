@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* **Ph.D** in Electrical Engineering and Computer Science, 2023
+* **Ph.D** in Electrical Engineering and Computer Science (2023)
   * University of Siegen, Germany
-* **M.Sc.** in Integrated Circuit (IC) Design Engineering, 2012
+* **M.Sc.** in Integrated Circuit Design Engineering (2012)
   * The Hong Kong University of Science and Technology, Hong Kong
-* **B.Eng.** in Computer Engineering, 2010
+* **B.Eng.** in Computer Engineering (2010)
   * The Hong Kong University of Science and Technology, Hong Kong
 
 Academic and Professional Experience
