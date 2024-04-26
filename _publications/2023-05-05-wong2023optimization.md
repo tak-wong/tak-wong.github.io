@@ -8,7 +8,7 @@ venue: 'PhD Dissertation, University of Siegen'
 authors: '<b>Tak Ming Wong</b>'
 paperurl: 'http://dx.doi.org/10.25819/ubsi/10350'
 citation: 'Wong, Tak Ming. "Optimization-based enhancement of THz data and image." (2023).'
-teaser: /publications/wong2023optimization_teaser.png
+teaser: publications/wong2023optimization_teaser.png
 # video: ''
 # code: ''
 # arxiv: ''

@@ -8,7 +8,7 @@ venue: 'Journal of Infrared, Millimeter, and Terahertz Waves'
 authors: '<b>Tak Ming Wong</b>, Matthias Kahl, Peter Haring Bolívar, Andreas Kolb'
 paperurl: 'https://link.springer.com/article/10.1007/s10762-019-00609-w'
 citation: 'Wong, Tak Ming, Matthias Kahl, Peter Haring Bolívar, and Andreas Kolb. "Computational image enhancement for frequency modulated continuous wave (FMCW) THz image." Journal of Infrared, Millimeter, and Terahertz Waves 40 (2019): 775-800.'
-teaser: /publications/wong2019computational_teaser.png
+teaser: publications/wong2019computational_teaser.png
 arxiv: 'https://arxiv.org/abs/1802.05457'
 categories: [THz,Image-Enhancement]
 bibtex: true

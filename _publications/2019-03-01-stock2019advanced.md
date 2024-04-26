@@ -8,7 +8,7 @@ venue: 'SPIE OPTO'
 authors: 'Daniel Stock, Matthias Kahl, Anna K. Wigger, <b>Tak Ming Wong</b>, Andreas Kolb, Peter Haring Bolívar'
 paperurl: 'https://doi.org/10.1117/12.2515642'
 citation: 'Stock, Daniel, Matthias Kahl, Anna K. Wigger, Tak Ming Wong, Andreas Kolb, and Peter Haring Bolívar. "Advanced signal processing techniques for THz imaging and sensing enhancement in material quality control applications." In Terahertz, RF, Millimeter, and Submillimeter-Wave Technology and Applications XII, vol. 10917, pp. 127-133. SPIE, 2019.'
-teaser: /publications/stock2019advanced_teaser.png
+teaser: publications/stock2019advanced_teaser.png
 # arxiv: ''
 categories: [THz]
 bibtex: true
