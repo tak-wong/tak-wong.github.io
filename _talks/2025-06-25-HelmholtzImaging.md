@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2025-06-25-HelmholtzImaging
 excerpt: ''
-venue: "<a href='https://helmholtz-imaging.de/news/hi-conference-2024-recap/'>Helmholtz Imaging Conference</a>"
+venue: "<a href='https://helmholtz-imaging.de/news/helmholtz-imaging-conference-2025/'>Helmholtz Imaging Conference</a>"
 date: 2025-06-25
 location: "Potsdam, Germany"
 ---
