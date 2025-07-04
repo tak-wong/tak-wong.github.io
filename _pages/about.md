@@ -21,8 +21,9 @@ Currently, I'm working on topics involving: (un-/self-)supervised deep learning,
 
 News
 ======
-- 23.06.2024: Our work of phase retrieval is accepted for a poster session at the Conference on Mathematics of Machine Learning 2025 - on 22-25 September 2025.
-- 21.05.2024: Our work [VolRAFTv2](/talks/2025-06-25-HelmholtzImaging) is accepted for a poster session at the Helmholtz Imaging Conference 2025 - on 25 June 2025.
-- 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for oral presentation at the CVPR 2024 workshops - Computer Vision for Materials Science (CV4MS) - on 18 June 2024.
+- 23.06.2025: Our work [VolRAFTv2](/talks/2025-07-16-RSEDay) is accepted for a talk and a poster session at the RSE Day - on 16 July 2025.
+- 23.06.2025: Our work of phase retrieval is accepted for a poster session at the Conference on Mathematics of Machine Learning - on 22-25 September 2025.
+- 21.05.2025: Our work [VolRAFTv2](/talks/2025-06-25-HelmholtzImaging) is accepted for a poster session at the Helmholtz Imaging Conference 2025 - on 25 June 2025.
+<!-- - 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for oral presentation at the CVPR workshops - Computer Vision for Materials Science (CV4MS) - on 18 June 2024.
 - 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for a poster session at the CVPR workshops - Computer Vision for Science (CV4Science) - on 17 June 2024.
-- 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for a talk at the Helmholtz Imaging Conference 2024 - on 14 May 2024.
+- 24.04.2024: Our paper [VolRAFT](/publication/2024-wong2024volraft) is accepted for a talk at the Helmholtz Imaging Conference - on 14 May 2024. -->
