@@ -9,7 +9,6 @@ date: 2025-06-25
 location: "Potsdam, Germany"
 ---
 
-<!-- <picture>
-  <img src="/images/talks/2024-05-14-HIC_1.jpg" width="600">
-  <img src="/images/talks/2024-05-14-HIC_2.jpg" width="600">
-</picture> -->
+<picture>
+  <img src="/images/talks/2025-06-25-HIC_1.jpg" width="600">
+</picture>
