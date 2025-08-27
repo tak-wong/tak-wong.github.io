@@ -5,7 +5,7 @@ permalink: /publication/2025-08-18-ulrich2025quantifying
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-08-18
 venue: 'Frontiers in Plant Science'
-authors: 'Kim Ulrich, Fabian Scheckenbach, <b>Tak Ming Wong</b>, Tom Masselter, Silja Flenner, Anaclara Visconti, Martin Nopens, Andreas Krause, Sergej Kaschuro, Jakob Benedikt Mietner, Thomas Speck, Imke Greving, Berit Zeller-Plumhoff and Linnea Hesse'
+authors: 'Kim Ulrich, Fabian Scheckenbach, <b>Tak Ming Wong</b>, Tom Masselter, Silja Flenner, Anaclara Visconti, Martin Nopens, Andreas Krause, Sergej Kaschuro, Jakob Benedikt Mietner, Thomas Speck, Imke Greving, Berit Zeller-Plumhoff, Linnea Hesse'
 paperurl: 'https://doi.org/10.3389/fpls.2025.1572745'
 # citation: ''
 teaser: publications/ulrich2025quantifying_teaser.png
