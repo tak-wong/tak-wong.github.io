@@ -1,7 +1,7 @@
 ---
 title: "A Framework for the AI-based visualization and analysis of massive amounts of 4D tomography data for end users of beamlines"
 collection: publications
-permalink: /publication/2025-02-01-kiess2025framework
+permalink: /publication/2025-kiess2025framework
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-02-01
 venue: '14th Conference on Industrial Computed Tomography (iCT) 2025'

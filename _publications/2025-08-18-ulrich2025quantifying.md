@@ -1,7 +1,7 @@
 ---
 title: "Quantifying hygroscopic deformation in lignocellulosic tissues: a digital volume correlation tool comparison"
 collection: publications
-permalink: /publication/2025-08-18-ulrich2025quantifying
+permalink: /publication/2025-ulrich2025quantifying
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-08-18
 venue: 'Frontiers in Plant Science'

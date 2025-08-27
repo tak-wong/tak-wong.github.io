@@ -21,8 +21,8 @@ Currently, I'm working on topics involving: (un-/self-)supervised deep learning,
 
 News
 ======
-- 18.08.2025: The [paper](/_publications/2025-08-18-ulrich2025quantifying) is published in Frontiers in Plant Science.
-- 13.08.2025: The paper [SelfPhish](/_publications/2025-08-13-yang2025self) is published in Optics Express (Editors' Pick).
+- 18.08.2025: The [paper](/publication/2025-ulrich2025quantifying) is published in Frontiers in Plant Science.
+- 13.08.2025: The paper [SelfPhish](/publication/2025-yang2025self) is published in Optics Express (Editors' Pick).
 - 23.06.2025: The work of phase retrieval is accepted for a poster session at the Conference on Mathematics of Machine Learning - on 22-25 September 2025.
 <!-- - 23.06.2025: The work [VolRAFTv2](/talks/2025-07-16-RSEDay) is accepted for a talk and a poster session at the RSE Day - on 16 July 2025. -->
 <!-- - 21.05.2025: The work [VolRAFTv2](/talks/2025-06-25-HelmholtzImaging) is accepted for a poster session at the Helmholtz Imaging Conference 2025 - on 25 June 2025. -->
