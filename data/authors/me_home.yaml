@@ -1,0 +1,180 @@
+schema: "hugoblox/author/v1"
+slug: "me_home"
+is_owner: true
+name:
+  display: "Dr.-Ing. Tak Ming Wong"
+  given: "Tak Ming"
+  family: "Wong"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "Dr.-Ing."
+  - ""
+role: "Research Scientist"
+bio: "Dr. Tak Ming Wong is a research scientist at Helmholtz-Zentrum Hereon, Germany. His research interests are computational imaging, computer vision, deep learning and advanced imaging modalities. The research works have been published in top conferences and journals, e.g. CVPR, WACV, Optics Express, etc. He is passionate about bridging the gap of visual computing and scientific applications by DL/AI methods. "
+affiliations:
+  - name: "Helmhotlz-Zentrum Hereon"
+    url: "https://www.hereon.de/index.php.en"
+links:
+  - icon: "at-symbol"
+    url: "mailto:tak.wong@hereon.de"
+    label: "E-mail Me"
+  - icon: "brands/github"
+    url: "https://github.com/tak-wong"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/tak-ming-w-53546646/"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=D-TuacIAAAAJ"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0001-8577-7967"
+interests:
+  - "Computational Imaging"
+  - "Computer VIsion"
+  - "Scientific Visualization"
+  - "Visual Computing"
+  - "Deep Learning"
+  - "AI"
+  - "Self-supervised Learning"
+  - "Non-convex Optimization"
+  - "Advanced Imaging (CT, THz)"
+# education:
+#   - degree: "Ph.D. in Electrical Engineering and Computer Science"
+#     institution: "University of Siegen, Germany"
+#     start: "2016"
+#     end: "2023"
+#     summary: "Dissertation title \"Optimization-based Enhancement of THz Data and Image\""
+#     button:
+#       text: "Dissertation"
+#       url: "https://www.cg.informatik.uni-siegen.de/data/Publications/2023/dissWong_final.pdf"
+#       icon: ""
+#   - degree: "M.Sc. in Integrated Circuit Design Engineering"
+#     institution: "The Hong Kong University of Science and Technology (HKUST), Hong Kong"
+#     start: "2010"
+#     end: "2012"
+#     summary: ""
+#   - degree: "B.Eng. in Computer Engineering"
+#     institution: "The Hong Kong University of Science and Technology (HKUST), Hong Kong"
+#     start: "2007"
+#     end: "2010"
+#     summary: ""
+# experience:
+#   - role: "Scientist"
+#     org: "Helmholtz-Zentrum Hereon"
+#     start: "2023"
+#     end: ""
+#     summary: ""
+#     button:
+#       text: "Website"
+#       url: "https://www.hereon.de/institutes/metallic_biomaterials/imaging_and_data_science/team/113773/index.php.en"
+#       icon: ""
+#   - role: "Scientific Researcher"
+#     org: "University of Siegen"
+#     start: "2016"
+#     end: "2022"
+#     summary: ""
+#     button:
+#       text: "Website"
+#       url: "https://www.cg.informatik.uni-siegen.de/en"
+#       icon: ""
+#   - role: "R&D Engineer, Project Manager, Technical Director"
+#     org: "S Square System Limited, Hong Kong"
+#     start: "2011"
+#     end: "2016"
+#     summary: ""
+#   - role: "Project Intern"
+#     org: "Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong"
+#     start: "2010"
+#     end: "2011"
+#     summary: ""
+# skills:
+#   - name: "Scientific Computing Skills"
+#     items:
+#       - label: "Python"
+#         level: 5
+#       - label: "PyTorch"
+#         level: 5
+#       - label: "MATLAB"
+#         level: 5
+#       - label: "Numpy, Matplotlib"
+#         level: 5
+#       - label: "OpenCV"
+#         level: 4
+#       - label: "CUDA"
+#         level: 1
+#   - name: "Software Engineering Skills"
+#     items:
+#       - label: "C/C++"
+#         level: 5
+#       - label: "C#"
+#         level: 4
+#       - label: "Objective-C"
+#         level: 4
+#       - label: "AWS Cloud"
+#         level: 4
+#       - label: "iOS Development"
+#         level: 4
+#       - label: ".NET Framework"
+#         level: 4
+#       - label: "Java, VB, PHP, Javascript"
+#         level: 3
+#       - label: "LAMP stack"
+#         level: 3
+#   - name: "Research Topics and Interests"
+#     items:
+#       - label: "Computational Imaging"
+#         level: 5
+#       - label: "Computer Vision"
+#         level: 5
+#       - label: "Deep Learning"
+#         level: 5
+#       - label: "Non-/convex Optimization"
+#         level: 4
+#       - label: "Scientific Visualization"
+#         level: 4
+#       - label: "Visual Computing"
+#         level: 4
+#       - label: "Terahertz (THz) Imaging"
+#         level: 4
+#       - label: "Computed Tomography (CT)"
+#         level: 4
+#       - label: "LLM/AI"
+#         level: 1
+# languages:
+#   - name: "English"
+#     level: 5
+#     label: "Fluent"
+#   - name: "German"
+#     level: 1
+#     label: "Basic"
+#   - name: "Mandarin"
+#     level: 5
+#     label: "Fluent"
+#   - name: "Cantonese"
+#     level: 5
+#     label: "Native"
+# awards:
+#   - title: "Stipendium"
+#     awarder: "Deutschen Akademischen Austausch Dienstes (DAAD-Programm STIBET)"
+#     date: "2016"
+#     summary: ""
+#     icon: "🔬"
+#   - title: "Stipendium"
+#     awarder: "University of Siegen"
+#     date: "2020"
+#     summary: ""
+#     icon: "🔬"
+#   - title: "Stipendium"
+#     awarder: "Center for Sensor Systems (ZESS), University of Siegen"
+#     date: "2021"
+#     summary: ""
+#     icon: "🔬"
+#   - title: "Stipendium"
+#     awarder: "Center for Sensor Systems (ZESS), University of Siegen"
+#     date: "2022"
+#     summary: ""
+#     icon: "🔬"
+ids:
+  orcid: "0000-0001-8577-7967"
+  google_scholar: "D-TuacIAAAAJ"
+  research_gate: "Tak-Wong-3"

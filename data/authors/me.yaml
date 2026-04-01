@@ -1,8 +1,8 @@
 schema: "hugoblox/author/v1"
 slug: "me"
-is_owner: true
+is_owner: false
 name:
-  display: "Dr.-Ing. Tak Ming Wong"
+  display: "Tak Ming Wong"
   given: "Tak Ming"
   family: "Wong"
   alternate: ""
@@ -11,11 +11,11 @@ name:
 postnominals:
   - "Dr.-Ing."
   - ""
-role: "Scientist"
-bio: "Dr. Tak Ming Wong is a scientist at Helmholtz-Zentrum Hereon, Germany. His research interests are computational imaging, computer vision, deep learning and AI. His research has been published in top conferences and journals, e.g. CVPR, WACV, Optics Express, etc. He is passionate about bridging the gap of visual computing and scientific applications. "
+role: "Research Scientist"
+bio: "Dr. Tak Ming Wong is a research scientist at Helmholtz-Zentrum Hereon, Germany. His research interests are computational imaging, computer vision, deep learning and advanced imaging modalities. The research works have been published in top conferences and journals, e.g. CVPR, WACV, Optics Express, etc. He is passionate about bridging the gap of visual computing and scientific applications by DL/AI methods. "
 affiliations:
-  - name: "Helmholtz-Zentrum Hereon"
-    url: "https://www.hereon.de/institutes/metallic_biomaterials/imaging_and_data_science/team/index.php.en"
+  - name: "Helmhotlz-Zentrum Hereon"
+    url: "https://www.hereon.de/index.php.en"
 links:
   - icon: "at-symbol"
     url: "mailto:tak.wong@hereon.de"
@@ -36,9 +36,8 @@ interests:
   - "Deep Learning"
   - "AI"
   - "Self-supervised Learning"
-  - "Unsupervised Learning"
-  - "CT"
-  - "THz"
+  - "Non-convex Optimization"
+  - "Advanced Imaging (CT, THz)"
 education:
   - degree: "Ph.D. in Electrical Engineering and Computer Science"
     institution: "University of Siegen, Germany"
@@ -60,55 +59,121 @@ education:
     end: "2010"
     summary: ""
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
+  - role: "Scientist"
+    org: "Helmholtz-Zentrum Hereon"
+    start: "2023"
+    end: ""
+    summary: ""
     button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+      text: "Website"
+      url: "https://www.hereon.de/institutes/metallic_biomaterials/imaging_and_data_science/team/113773/index.php.en"
+      icon: ""
+  - role: "Scientific Researcher"
+    org: "University of Siegen"
+    start: "2016"
+    end: "2022"
+    summary: ""
+    button:
+      text: "Website"
+      url: "https://www.cg.informatik.uni-siegen.de/en"
+      icon: ""
+  - role: "R&D Engineer, Project Manager, Technical Director"
+    org: "S Square System Limited, Hong Kong"
+    start: "2011"
+    end: "2016"
+    summary: ""
+  - role: "Project Intern"
+    org: "Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong"
+    start: "2010"
+    end: "2011"
+    summary: ""
 skills:
-  - name: "Technical Skills"
+  - name: "Scientific Computing Skills"
     items:
       - label: "Python"
         level: 5
-      - label: "Machine Learning"
+      - label: "PyTorch"
         level: 5
-      - label: "Cloud Computing"
+      - label: "MATLAB"
+        level: 5
+      - label: "Numpy, Matplotlib"
+        level: 5
+      - label: "OpenCV"
         level: 4
-  - name: "Research & Communication"
+      - label: "CUDA"
+        level: 1
+  - name: "Software Engineering Skills"
     items:
-      - label: "Academic Writing"
+      - label: "C/C++"
         level: 5
-      - label: "Conference Presentations"
+      - label: "C#"
         level: 4
-      - label: "Grant Proposals"
+      - label: "Objective-C"
         level: 4
+      - label: "AWS Cloud"
+        level: 4
+      - label: "iOS Development"
+        level: 4
+      - label: ".NET Framework"
+        level: 4
+      - label: "Java, VB, PHP, Javascript"
+        level: 3
+      - label: "LAMP stack"
+        level: 3
+  - name: "Research Topics and Interests"
+    items:
+      - label: "Computational Imaging"
+        level: 5
+      - label: "Computer Vision"
+        level: 5
+      - label: "Deep Learning"
+        level: 5
+      - label: "Non-/convex Optimization"
+        level: 4
+      - label: "Scientific Visualization"
+        level: 4
+      - label: "Visual Computing"
+        level: 4
+      - label: "Terahertz (THz) Imaging"
+        level: 4
+      - label: "Computed Tomography (CT)"
+        level: 4
+      - label: "LLM/AI"
+        level: 1
 languages:
   - name: "English"
-    level: null
+    level: 5
     label: "Fluent"
   - name: "German"
-    level: null
+    level: 1
     label: "Basic"
   - name: "Mandarin"
-    level: null
-    label: "Native"
+    level: 5
+    label: "Fluent"
   - name: "Cantonese"
-    level: null
+    level: 5
     label: "Native"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  - title: "Stipendium"
+    awarder: "Deutschen Akademischen Austausch Dienstes (DAAD-Programm STIBET)"
+    date: "2016"
+    summary: ""
+    icon: "🔬"
+  - title: "Stipendium"
+    awarder: "University of Siegen"
+    date: "2020"
+    summary: ""
+    icon: "🔬"
+  - title: "Stipendium"
+    awarder: "Center for Sensor Systems (ZESS), University of Siegen"
+    date: "2021"
+    summary: ""
+    icon: "🔬"
+  - title: "Stipendium"
+    awarder: "Center for Sensor Systems (ZESS), University of Siegen"
+    date: "2022"
+    summary: ""
+    icon: "🔬"
 ids:
   orcid: "0000-0001-8577-7967"
   google_scholar: "D-TuacIAAAAJ"

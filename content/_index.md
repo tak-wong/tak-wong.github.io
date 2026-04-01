@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Tak Ming Wong'
-summary: 'Scientist at Helmholtz-Zentrum Hereon'
+title: ''
+summary: ''
 date: 2026-04-01
 type: landing
 
@@ -13,12 +13,12 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      username: me_home
+      # text: ''
+      # # Show a call-to-action button under your biography? (optional)
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -31,7 +31,7 @@ sections:
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
+        size: sm # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
