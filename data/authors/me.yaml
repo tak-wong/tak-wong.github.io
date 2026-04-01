@@ -12,7 +12,7 @@ postnominals:
   - "Dr.-Ing."
   - ""
 role: "Research Scientist"
-bio: "Dr. Tak Ming Wong is a research scientist at Helmholtz-Zentrum Hereon, Germany. His research interests are computational imaging, computer vision, deep learning and advanced imaging modalities. The research works have been published in top conferences and journals, e.g. CVPR, WACV, Optics Express, etc. He is passionate about bridging the gap of visual computing and scientific applications by DL/AI methods. "
+bio: "Tak Ming Wong is a research scientist at Helmholtz-Zentrum Hereon, Germany. His research interests are mainly in computational imaging, computer vision, scientific machine learning (SciML) for advanced imaging modalities."
 affiliations:
   - name: "Helmhotlz-Zentrum Hereon"
     url: "https://www.hereon.de/index.php.en"
@@ -30,14 +30,11 @@ links:
     url: "https://orcid.org/0000-0001-8577-7967"
 interests:
   - "Computational Imaging"
-  - "Computer VIsion"
-  - "Scientific Visualization"
-  - "Visual Computing"
-  - "Deep Learning"
+  - "Computer Vision"
+  - "Scientific Machine Learning (SciML)"
+  - "Knowledge-guide Deep Learning"
+  - "Advanced Imaging Modalities (CT, THz)"
   - "AI"
-  - "Self-supervised Learning"
-  - "Non-convex Optimization"
-  - "Advanced Imaging (CT, THz)"
 education:
   - degree: "Ph.D. in Electrical Engineering and Computer Science"
     institution: "University of Siegen, Germany"

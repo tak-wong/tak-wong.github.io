@@ -42,11 +42,18 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a research scientist at the Hereon's outstation located at the largest particle accelerator in Germany ([DESY](https://www.desy.de/index_eng.html), Hamburg).
+        Currently, I'm a member of [Imaging and Data Science Department](https://www.hereon.de/institutes/metallic_biomaterials/imaging_and_data_science/index.php.en) of the [Institute of Metallic Biomaterials](https://www.hereon.de/institutes/metallic_biomaterials/index.php.en) and a member of the [X-Ray Imaging with Synchrotron Radiation Department](https://www.hereon.de/institutes/materials_physics/team/index.php.en) of the [Institute of Materials Physics](https://www.hereon.de/institutes/materials_physics/index.php.en).
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Prior to this, I completed my doctoral research at the [Computer Graphics and Multimedia Systems Group](https://www.cg.informatik.uni-siegen.de/en) under the supervision of [Prof. Andreas Kolb](https://www.cg.informatik.uni-siegen.de/en/kolb-andreas) and the co-supervision of [Prof. Peter Haring Bolívar](https://www.hqe.eti.uni-siegen.de/en/member.html) at the [University of Siegen](https://www.uni-siegen.de) in 2023.
 
-        Please reach out to collaborate 😃
+        I develop deep neural networks to solve inverse problems in tomography imaging (at Hereon's μCT and nanoCT beamlines) for materials science experiments.
+        Currently, I'm particularly focusing on memory efficiency of volumetric networks and knowledge-guided deep learning methods for downstream tasks such as:
+        - Digital Volume Correlation (DVC)
+        - Phase retrieval
+        - Flat-field correction
+
+        Please feel free to reach out for collaboration and opportunities! 😃
     design:
       columns: '1'
   - block: collection
