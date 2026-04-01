@@ -5,13 +5,12 @@ hugoblox:
     type: person
     tagline: Visual Computing Researcher | AI for Science | Helmholtz-Zentrum Hereon
     description: Dr. Tak Ming Wong is a scientist at Helmholtz-Zentrum Hereon. His interests are computational imaging, computer vision, DL/AI and related applications.
-    organization: Helmholtz-Zentrum Hereon
   theme:
     mode: light
     pack: minimal
     colors:
       primary: "blue"
-      secondary: "yellow"
+      secondary: "#5fa8d3"
       neutral: ""
   typography:
     font: sans
