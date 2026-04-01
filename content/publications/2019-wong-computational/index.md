@@ -48,9 +48,9 @@ hugoblox:
     arxiv: "1802.05457"
 
 # Custom links
-# links:
-#   - type: pdf
-#     url: ""
+links:
+  - type: pdf
+    url: "https://link.springer.com/article/10.1007/s10762-019-00609-w"
 #   - type: code
 #     url: ""
 #   - type: dataset
@@ -61,8 +61,8 @@ hugoblox:
 #     url: ""
 #   - type: slides
 #     url: ""
-#   - type: source
-#     url: ""
+  # - type: source
+  #   url: ""
 #   - type: video
 #     url: ""
 
