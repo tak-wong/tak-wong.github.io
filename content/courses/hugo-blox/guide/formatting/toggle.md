@@ -1,7 +1,7 @@
 ---
 title: Spoilers
+status: published
 ---
-
 A Hugo shortcode to toggle collapsible content.
 
 <!--more-->

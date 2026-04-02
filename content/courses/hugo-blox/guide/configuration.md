@@ -1,8 +1,8 @@
 ---
 title: Configuration
 weight: 2
+status: published
 ---
-
 The configuration of your site can be found in `config/_default/`.
 
 <!--more-->

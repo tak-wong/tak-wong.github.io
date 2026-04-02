@@ -1,8 +1,8 @@
 ---
 title: Cards
 linkTitle: Cards
+status: published
 ---
-
 A Hugo extension to create cards. Cards can be shown as links or as plain text.
 
 ## Usage

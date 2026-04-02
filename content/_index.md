@@ -39,7 +39,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 About me'
       subtitle: ''
       text: |-
         I'm a research scientist at the Hereon's outstation located at the largest particle accelerator in Germany ([DESY](https://www.desy.de/index_eng.html), Hamburg).
