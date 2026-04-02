@@ -9,9 +9,11 @@ hugoblox:
     mode: light
     pack: minimal
     colors:
-      primary: "blue"
-      secondary: "#5fa8d3"
-      neutral: ""
+      primary: "#0077b6"
+      secondary: "#caf0f8"
+      neutral: "gray"
+    colors_dark:
+      secondary: ""
   typography:
     font: sans
     size: md
