@@ -97,6 +97,8 @@ skills:
         level: 5
       - label: "OpenCV"
         level: 4
+      - label: "SLURM"
+        level: 4        
       - label: "CUDA"
         level: 1
   - name: "Software Engineering Skills"
@@ -117,6 +119,8 @@ skills:
         level: 3
       - label: "LAMP stack"
         level: 3
+      - label: "Git"
+        level: 4
   - name: "Research Topics and Interests"
     items:
       - label: "Computational Imaging"
