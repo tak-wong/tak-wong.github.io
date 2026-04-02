@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Tak Ming Wong
+    name: Tak Ming Wong Personal Homepage
     type: person
     tagline: Visual Computing Researcher | AI for Science | Helmholtz-Zentrum Hereon
     description: Dr. Tak Ming Wong is a scientist at Helmholtz-Zentrum Hereon. His interests are computational imaging, computer vision, DL/AI and related applications.
