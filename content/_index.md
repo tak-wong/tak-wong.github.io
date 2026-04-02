@@ -59,7 +59,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Selected Publications
+      title: Selected Papers
       filters:
         folders:
           - publications
@@ -69,7 +69,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Publications
+      title: Papers
       text: ''
       filters:
         folders:
