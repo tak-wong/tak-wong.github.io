@@ -10,7 +10,7 @@ hugoblox:
     pack: minimal
     colors:
       primary: "#0077b6"
-      secondary: "#caf0f8"
+      secondary: "#00b4d8"
       neutral: "gray"
     colors_dark:
       secondary: ""
