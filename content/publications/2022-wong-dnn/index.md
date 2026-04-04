@@ -37,10 +37,9 @@ summary: "Combine the deep optimization prior approach to the modern 2D blind de
 
 tags:
   - THz
+  - Deconvolution
   - Computational Imaging
   - Parameter Estimation
-  - Deconvolution
-
 
 # Display this page in the Featured widget?
 featured: false

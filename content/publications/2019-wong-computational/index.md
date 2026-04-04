@@ -35,8 +35,8 @@ summary: "A novel method to enhance Frequency Modulated Continuous Wave (FMCW) T
 
 tags:
   - THz
-  - Computational Imaging
   - Deconvolution
+  - Computational Imaging
 
 # Display this page in the Featured widget?
 featured: true

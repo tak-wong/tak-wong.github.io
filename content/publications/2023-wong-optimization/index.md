@@ -32,8 +32,8 @@ summary: "Express inverse problems as mathematical optimization problems to solv
 
 tags:
   - THz
-  - Optimization
   - Computational Imaging
+  - Optimization
   - Parameter Estimation
   - Deconvolution
   - Image Reconstruction
@@ -41,7 +41,7 @@ tags:
   - Deep Image Priors
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 hugoblox:

@@ -37,8 +37,8 @@ summary: "Deep Optimization Prior approach allows to find better local optima in
 
 tags:
   - THz
-  - Computational Imaging
   - Parameter Estimation
+  - Computational Imaging
   - Deep Image Priors
   - Model-based Autoencoder
 

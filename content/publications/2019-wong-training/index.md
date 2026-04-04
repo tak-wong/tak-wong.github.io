@@ -36,9 +36,9 @@ summary: "An unsupservised model-based autoencoder in which the encoder network 
 
 tags:
   - THz
+  - Model-based Autoencoder
   - Computational Imaging
   - Image Reconstruction
-  - Model-based Autoencoder
 
 # Display this page in the Featured widget?
 featured: true
