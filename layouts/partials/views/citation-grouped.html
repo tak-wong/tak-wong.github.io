@@ -1,0 +1,20 @@
+{{ $item := .item }}
+
+{{/* 1. Extract the year from the current publication */}}
+{{ $year := $item.Date.Format "2006" }}
+
+{{/* 2. Check the GLOBAL memory to see the last printed year */}}
+{{ $lastYear := site.Home.Store.Get "hugoBloxLastYear" }}
+
+{{/* 3. If the year is new, print the group header and update the global memory! */}}
+{{ if ne $year $lastYear }}
+  <div class="mt-8 mb-2 border-b-2 border-zinc-200 dark:border-zinc-800 pb-2 w-full">
+    <h2 class="text-3xl font-extrabold text-zinc-900 dark:text-zinc-100 tracking-tight">{{ $year }}</h2>
+  </div>
+  {{ site.Home.Store.Set "hugoBloxLastYear" $year }}
+{{ end }}
+
+{{/* 4. Render the publication inside the group */}}
+<div class="ml-0 md:ml-4">
+  {{ partial "views/citation.html" . }}
+</div>
