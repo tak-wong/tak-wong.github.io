@@ -10,14 +10,19 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: resume-experience-custom
     content:
+      title_experience: "Professional Experience"
+      title_education: "Education"
       username: me
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: resume-teaching
+    content:
+      title: Teaching Experience
   - block: resume-skills
     content:
       title: Skills

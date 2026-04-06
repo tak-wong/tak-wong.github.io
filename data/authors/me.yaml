@@ -179,3 +179,77 @@ ids:
   orcid: "0000-0001-8577-7967"
   google_scholar: "D-TuacIAAAAJ"
   research_gate: "Tak-Wong-3"
+
+teaching:
+  - title: Scientific Visualization (M.Sc. course)
+    company: University of Siegen
+    date_start: '2021-10-01'
+    date_end: '2022-03-31'
+    icon: 'book-open'
+    button:
+      text: "Course Website"
+      url: "https://www.cg.informatik.uni-siegen.de/en/SciVisEN"
+      icon: ""
+    description: |
+      * Tutorial and assignments
+      * Update the content from GNUPlot and C++ to Matplotlib using Python
+      * Project works
+  - title: Master Thesis Supervision
+    company: University of Siegen
+    date_start: '2020-04-01'
+    date_end: '2021-05-17'
+    icon: 'book-open'
+    description: |
+      * Feedback regularly on the research conducted for the master thesis.
+      * Provide guidance on the structure of the thesis writing.
+      * Topic: Blur Kernel Estimation by Deep Learning
+  - title: Scientific Visualization (M.Sc. course)
+    company: University of Siegen
+    date_start: '2020-10-01'
+    date_end: '2021-03-31'
+    icon: 'book-open'
+    button:
+      text: "Course Website"
+      url: "https://www.cg.informatik.uni-siegen.de/en/SciVisEN"
+      icon: ""
+    description: |
+      * Tutorial and assignments
+      * Update the content from GNUPlot and C++ to Matplotlib using Python
+      * Project works
+  - title: CG Seminar (M.Sc. course)
+    company: University of Siegen
+    date_start: '2019-10-01'
+    date_end: '2020-03-31'
+    icon: 'book-open'
+    button:
+      text: "Course Website"
+      url: "https://www.cg.informatik.uni-siegen.de/en/teaching"
+      icon: ""
+    description: |
+      * Provide guidance for a master student to review a paper and to summarize it by a report
+      * Topic: Color Transfer between Images
+  - title: Scientific Visualization (M.Sc. course)
+    company: University of Siegen
+    date_start: '2019-10-01'
+    date_end: '2020-03-31'
+    icon: 'book-open'
+    button:
+      text: "Course Website"
+      url: "https://www.cg.informatik.uni-siegen.de/en/SciVisEN"
+      icon: ""
+    description: |
+      * Tutorial and assignments
+      * Project works
+  - title: CG Seminar (M.Sc. course)
+    company: University of Siegen
+    date_start: '2019-04-01'
+    date_end: '2019-09-31'
+    icon: 'book-open'
+    button:
+      text: "Course Website"
+      url: "https://www.cg.informatik.uni-siegen.de/en/teaching"
+      icon: ""
+    description: |
+      * Provide guidance for a master student to review a paper and to summarize it by a report
+      * Topic: Painterly Rendering with Curved Brush Strokes of Multiple Sizes
+  
