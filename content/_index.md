@@ -60,6 +60,9 @@ sections:
     id: publications
     content:
       title: Selected Publications
+      count: 0
+      archive:
+        enable: true
       filters:
         folders:
           - publications
@@ -110,14 +113,15 @@ sections:
     id: talks
     content:
       title: Selected Talks & Presentations
-      count: 3
-      
+      count: 0
+      archive:
+        enable: true
       filters:
         folders:
           - events
         featured_only: true
     design:
-      view: card        
+      view: article-grid
   # - block: cta-card
   #   demo: true # Only display this section in the HugoBlox Kit demo site
   #   content:

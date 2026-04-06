@@ -8,11 +8,13 @@ sections:
     id: featured-publications
     content:
       title: Selected Publications
+      count: 0
+      archive:
+        enable: false
       filters:
         folders:
           - publications      # Change this to 'talks' if your folder is named 'talks'
         featured_only: true
-        count: 0
     design:
       view: article-grid
       columns: 2
@@ -27,5 +29,5 @@ sections:
         folders:
           - publications      # Change this to 'talks' if your folder is named 'talks'
     design:
-      view: citation    # 'compact' creates a clean list. You can also try 'list'.
+      view: citation-grouped    # 'compact' creates a clean list. You can also try 'list'.
 ---

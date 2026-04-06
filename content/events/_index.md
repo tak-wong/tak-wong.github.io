@@ -8,6 +8,9 @@ sections:
     id: featured-talks
     content:
       title: Selected Talks & Presentations
+      count: 0
+      archive:
+        enable: false
       filters:
         folders:
           - events      # Change this to 'talks' if your folder is named 'talks'
