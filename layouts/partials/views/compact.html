@@ -1,0 +1,25 @@
+{{ $item := .item }}
+
+{{/* 1. We create a variable to check if this item is from the events folder */}}
+{{ $isEvent := or (eq $item.Type "event") (eq $item.Type "events") }}
+
+<div class="border-b border-zinc-200 dark:border-zinc-800 pb-4">
+  <h3 class="text-lg font-bold">
+    <a href="{{ $item.RelPermalink }}" class="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">{{ $item.Title }}</a>
+  </h3>
+  
+  <div class="text-sm text-zinc-500 mb-2">
+    <time datetime="{{ $item.Date.Format "2006-01-02" }}">{{ $item.Date.Format "Jan 2, 2006" }}</time>
+    
+    {{/* 2. Here is our smart logic for the venue */}}
+    {{ if and $isEvent $item.Params.event_name }}
+      <span> at {{ $item.Params.event_name }}</span>
+    {{ else if and $isEvent $item.Params.location }}
+      <span> at {{ $item.Params.location }}</span>
+    {{ end }}
+  </div>
+  
+  <p class="text-sm text-zinc-600 dark:text-zinc-400">
+    {{ partial "functions/get_summary" $item | plainify | truncate 120 }}
+  </p>
+</div>

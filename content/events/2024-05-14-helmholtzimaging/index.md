@@ -29,7 +29,7 @@ authors:
 tags:
   - Oral Presentation
 
-featured: false
+featured: true
 
 image:
   # caption: "Optional image credit (Markdown supported)"

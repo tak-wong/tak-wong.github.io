@@ -109,11 +109,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
-      count: 1
+      title: Recent Talks & Presentations
+      count: 3
+      
       filters:
         folders:
           - events
+        featured_only: true
     design:
       view: card        
   # - block: cta-card
