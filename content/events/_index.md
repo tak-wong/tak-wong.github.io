@@ -7,7 +7,7 @@ sections:
   - block: collection
     id: featured-talks
     content:
-      title: Featured Talks & Presentations
+      title: Selected Talks & Presentations
       filters:
         folders:
           - events      # Change this to 'talks' if your folder is named 'talks'

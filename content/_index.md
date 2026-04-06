@@ -57,9 +57,9 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
-      title: Selected Papers
+      title: Selected Publications
       filters:
         folders:
           - publications
@@ -67,16 +67,16 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Papers
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Papers
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: collection
     id: news
     content:
@@ -109,7 +109,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks & Presentations
+      title: Selected Talks & Presentations
       count: 3
       
       filters:
