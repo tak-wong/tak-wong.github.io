@@ -1,12 +1,12 @@
 ---
-title: "Volumetric Optical Flow Network for Digital Volume Correlation of Synchrotron Radiation-based Micro-CT Images of Bone-Implant Interfaces"
-date: 2024-05-14T00:00:00.000Z
+title: "Memory Efficient Volumetric Deep Neural Network for Digital Volume Correlation"
+date: 2025-07-16T00:00:00.000Z
 draft: false
 
-event_name: "Helmholtz Imaging Conference"
-event_url: "https://helmholtz-imaging.de/news/hi-conference-2024-recap/"
+event_name: "RSE Day"
+event_url: "https://www.conferences.uni-hamburg.de/event/628/overview"
 
-location: "Heidelberg, Germany"
+location: "Hamburg, Germany"
 # address:
 #   street: ""
 #   city: ""
@@ -18,8 +18,8 @@ location: "Heidelberg, Germany"
 # abstract: |
 #   abstract
 
-event_start: 2024-05-14T00:00:00.000Z
-# event_end: 2024-05-14T00:00:00.000Z
+event_start: 2025-07-16T00:00:00.000Z
+# event_end: 2025-07-16T00:00:00.000Z
 event_all_day: true
 
 # Speakers are matched to profiles in content/authors/
@@ -28,8 +28,9 @@ authors:
 
 tags:
   - Talk
+  - Poster
 
-featured: true
+featured: false
 
 image:
   # caption: "Optional image credit (Markdown supported)"
@@ -42,9 +43,9 @@ links:
   # - icon: brands/youtube
   #   name: Recording
   #   url: ""
-  - icon: book-open
-    name: Slides
-    url: "presentation.pdf"
+  # - icon: book-open
+  #   name: Slides
+  #   url: "presentation.pdf"
 
 # Link to your Markdown slides (folder name in content/slides/)
 slides: ""
@@ -58,6 +59,6 @@ status: published
 <!-- Add the talk outline, prerequisites, and how people can join. -->
 
 <picture>
-  <img src="2024-05-14-HIC_1.jpg" width="672">
-  <img src="2024-05-14-HIC_2.jpg" width="672">
+  <img src="2025-07-16-RSE_1.jpg" width="672">
+  <img src="2025-07-16-RSE_2.jpg" width="672">
 </picture>

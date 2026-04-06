@@ -27,7 +27,7 @@ authors:
   - me
 
 tags:
-  - Oral Presentation
+  - Talk
   # - Community
 
 featured: false

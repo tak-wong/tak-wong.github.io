@@ -1,12 +1,12 @@
 ---
-title: "Volumetric Optical Flow Network for Digital Volume Correlation of Synchrotron Radiation-based Micro-CT Images of Bone-Implant Interfaces"
-date: 2024-05-14T00:00:00.000Z
+title: "Self-supervised and physics-informed generative networks for the phase retrieval problem"
+date: 2025-09-24T00:00:00.000Z
 draft: false
 
-event_name: "Helmholtz Imaging Conference"
-event_url: "https://helmholtz-imaging.de/news/hi-conference-2024-recap/"
+event_name: "Conference on Mathematics of Machine Learning"
+event_url: "https://www.tuhh.de/dsf/mml"
 
-location: "Heidelberg, Germany"
+location: "Hamburg, Germany"
 # address:
 #   street: ""
 #   city: ""
@@ -18,8 +18,8 @@ location: "Heidelberg, Germany"
 # abstract: |
 #   abstract
 
-event_start: 2024-05-14T00:00:00.000Z
-# event_end: 2024-05-14T00:00:00.000Z
+event_start: 2025-09-24T00:00:00.000Z
+# event_end: 2025-09-24T00:00:00.000Z
 event_all_day: true
 
 # Speakers are matched to profiles in content/authors/
@@ -27,9 +27,9 @@ authors:
   - me
 
 tags:
-  - Talk
+  - Poster
 
-featured: true
+featured: false
 
 image:
   # caption: "Optional image credit (Markdown supported)"
@@ -42,9 +42,9 @@ links:
   # - icon: brands/youtube
   #   name: Recording
   #   url: ""
-  - icon: book-open
-    name: Slides
-    url: "presentation.pdf"
+  # - icon: book-open
+  #   name: Slides
+  #   url: "presentation.pdf"
 
 # Link to your Markdown slides (folder name in content/slides/)
 slides: ""
@@ -58,6 +58,6 @@ status: published
 <!-- Add the talk outline, prerequisites, and how people can join. -->
 
 <picture>
-  <img src="2024-05-14-HIC_1.jpg" width="672">
-  <img src="2024-05-14-HIC_2.jpg" width="672">
+  <img src="2025-09-24-ConfMML_1.jpg" width="672">
+  <img src="2025-09-24-ConfMML_2.jpg" width="672">
 </picture>
