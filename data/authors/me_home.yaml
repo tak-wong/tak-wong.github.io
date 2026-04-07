@@ -14,7 +14,7 @@ postnominals:
 role: "Research Scientist"
 bio: "Tak Ming Wong is a research scientist at Helmholtz-Zentrum Hereon, Germany. His research interests are mainly in computational imaging, computer vision, scientific machine learning (SciML) for advanced imaging modalities."
 affiliations:
-  - name: "Helmhotlz-Zentrum Hereon"
+  - name: "Helmholtz-Zentrum Hereon"
     url: "https://www.hereon.de/index.php.en"
 links:
   - icon: "at-symbol"
@@ -30,10 +30,11 @@ links:
     url: "https://orcid.org/0000-0001-8577-7967"
 interests:
   - "Computational Imaging"
-  - "Computer Vision"
+  - "Applied Computer Vision"
   - "Scientific Machine Learning (SciML)"
   - "Knowledge-guided Deep Learning"
-  - "Advanced Imaging Modalities (CT, THz)"
+  - "X-ray Tomography (CT)"
+  - "THz Imaging"
   - "AI"
 # education:
 #   - degree: "Ph.D. in Electrical Engineering and Computer Science"
