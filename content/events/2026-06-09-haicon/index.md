@@ -60,5 +60,5 @@ status: published
 <picture>
   <img src="2026-06-09-HAICON_1.jpg" width="672">
   <img src="2026-06-09-HAICON_2.jpg" width="672">
-  <img src="2026-06-09-HAICON_3.jpg" width="672">
+  <img src="2026-06-09-HAICON_4.jpg" width="672">
 </picture>
